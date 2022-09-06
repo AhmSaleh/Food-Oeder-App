@@ -21,12 +21,6 @@ const DUMMY_MEALS = [
     description: "American, raw, meaty",
     price: 12.991111,
   },
-  {
-    id: 4,
-    name: "Green Bowl",
-    description: "Healthy...and green...",
-    price: 18.99,
-  },
 ];
 
 export default function AvailableMeals() {
